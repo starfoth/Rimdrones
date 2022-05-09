@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Rimdrones</name>
+  <author>Starfoth</author>
+  <packageId>Drones.Rubtex</packageId>
+  <supportedVersions>                     
+    <li>1.3</li>
+  </supportedVersions>
+  <description>Rimdrones mod for Rimworld\n\nAdds rubtex/biogum, drones, dronification, and lots of other fun stuff</description>
+</ModMetaData>
